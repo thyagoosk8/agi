@@ -5,9 +5,6 @@ require 'capybara'
 require 'selenium-webdriver'
 require 'allure-rspec'
 require 'rspec'
-require 'spec_helper'
-require 'rails_helper'
-require 'rack/test'
 
 RSpec.configure do |config|
   config.include Capybara::DSL

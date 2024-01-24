@@ -16,7 +16,6 @@ RSpec.describe 'Blogdoagi', type: :feature do
   end
 
   it 'should perform a search' do
-
     click_button 'Pesquisar'
     fill_in 'INPUT', with: 'salário'
     click_button 'Pesquisar'
