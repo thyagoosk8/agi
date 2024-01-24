@@ -24,6 +24,7 @@ Execução de testes automatizados , validando  o fluxo de sucesso nas:
 
 1.validação do pagina
 2.validação de envio de e-mail
+3.validação de pesquisa
 
 
 # Melhoria 
